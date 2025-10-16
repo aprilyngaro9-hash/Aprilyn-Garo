@@ -1,11 +1,12 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Aprilyn Garo | bread and pastry product</title>
   <style>
-    body {
+body 
+    {
       background: #ffe4ec;
       font-family: "Segoe UI", Arial, sans-serif;
       margin: 0;
