@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -128,9 +128,8 @@
       font-weight: 700;
       text-decoration: none;
     }
-
-    @media (max-width: 600px) {
-      main {
+@media (max-width: 600px) {
+        main {
         margin: 1rem;
         padding: 1rem;
       }
@@ -156,7 +155,7 @@
       <a class="cta" href="#products">Explore here</a>
     </section>
 
-    <section id="products">
+<section id="products">
       <h2>Products</h2>
       <ul class="products-list">
         <li>
@@ -182,14 +181,14 @@
       </ul>
     </section>
 
-    <section id="contact">
+<section id="contact">
       <h2>Contact</h2>
       <p class="intro">Want to order or collaborate? Reach out via email below.</p>
       <a class="cta" href="mailto:aprilyngaro9@gmail.com">Email Me</a>
     </section>
   </main>
 
-  <footer>
+ <footer>
     designed for bread and pastry product
     <a class="email" href="mailto:aprilyngaro9@gmail.com">aprilyngaro9@gmail.com</a>
   </footer>
